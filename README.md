@@ -8,7 +8,7 @@ This project demonstrates how hand tracking can be used for **touchless interact
 
 ## 🧩 Features
 - Draw in the air using finger gestures
-- Real-time hand detection using a webcam
+- A Real-time hand detection using a webcam
 - Virtual CLEAR button to erase the drawing
 - No physical input devices required
 
